@@ -1,0 +1,6 @@
+El paradigma imperativo: o estructurado, maneja instrucciones de asignaciones,
+ciclos, ramificaciones condicionales, y ramificaciones incondicionales.
+Paradigma orinetado a objetos: define los programas en términos de comunidades de objetos. 
+Los objetos con características comunes se agrupan en clases (un concepto similar al de tipo abstracto de dato (TAD)). 
+Los objetos son entidades que combinan un estado (es decir, datos) y un comportamiento (esto es, procedimientos o métodos). 
+Estos objetos se comunican entre ellos para realizar tareas
